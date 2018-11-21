@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<DocumentType html>
+
 <html>
 <body>
 
@@ -15,6 +16,9 @@ function myFunction() {
 </script>
 
 <button type="button" onclick="myFunction()">Click Me!</button>
+<button type="button" onclick="myFunction()">Click Me!</button>
 
 </body>
 </html>
+
+</DocumentType>
