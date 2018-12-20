@@ -1,0 +1,19 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "First.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginsacap/automation.git"
+  },
+  "author": "Sankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginsacap/automation/issues"
+  },
+  "homepage": "https://github.com/ginsacap/automation#readme"
+}
